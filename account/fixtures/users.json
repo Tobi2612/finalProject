@@ -1,0 +1,202 @@
+[
+    {
+      "model": "account.customuser",
+      "fields": {
+        "id" : 2,
+        "first_name": "Nnamdi",
+        "last_name": "Ijeomah",
+        "email": "admin2@gmail.com",
+        "user_type": "1",
+        "is_superuser": "1",
+        "is_staff": "1",
+        "password": "pbkdf2_sha256$390000$ze0kTQMkE7TuOPYxwYX8jR$ropiBvtj16ktBZ3MdDsPjVEifZXq/s0fw9dSpUQlOCg=",
+        "created_at": "2023-05-15 18:35:59.680855",
+        "updated_at": "2023-05-15 18:35:59.680855"
+      }
+    },
+    {
+      "model": "account.customuser",
+      "fields": {
+        "id" : 3,
+        "first_name": "Tobi",
+        "last_name": "Said",
+        "email": "admin3@gmail.com",
+        "user_type": "1",
+        "is_superuser": "1",
+        "is_staff": "1",
+        "password": "pbkdf2_sha256$390000$ze0kTQMkE7TuOPYxwYX8jR$ropiBvtj16ktBZ3MdDsPjVEifZXq/s0fw9dSpUQlOCg=",
+        "created_at": "2023-05-15 18:35:59.680855",
+        "updated_at": "2023-05-15 18:35:59.680855"
+      }
+    },
+    {
+      "model": "account.customuser",
+      "fields": {
+        "id" : 4,
+        "first_name": "John",
+        "last_name": "Doe",
+        "email": "john@gmail.com",
+        "user_type": "2",
+        "password": "pbkdf2_sha256$390000$ze0kTQMkE7TuOPYxwYX8jR$ropiBvtj16ktBZ3MdDsPjVEifZXq/s0fw9dSpUQlOCg=",
+        "created_at": "2023-05-15 18:35:59.680855",
+        "updated_at": "2023-05-15 18:35:59.680855"
+      }
+    },
+    {
+      "model": "account.customuser",
+      "fields": {
+        "id" : 5,
+        "first_name": "Kevin",
+        "last_name": "Smith",
+        "email": "kevin@gmail.com",
+        "user_type": "2",
+        "password": "pbkdf2_sha256$390000$ze0kTQMkE7TuOPYxwYX8jR$ropiBvtj16ktBZ3MdDsPjVEifZXq/s0fw9dSpUQlOCg=",
+        "created_at": "2023-05-15 18:35:59.680855",
+        "updated_at": "2023-05-15 18:35:59.680855"
+      }
+    },
+    {
+      "model": "account.customuser",
+      "fields": {
+        "id" : 6,
+        "first_name": "Mary",
+        "last_name": "Williams",
+        "email": "mary@gmail.com",
+        "user_type": "2",
+        "password": "pbkdf2_sha256$390000$ze0kTQMkE7TuOPYxwYX8jR$ropiBvtj16ktBZ3MdDsPjVEifZXq/s0fw9dSpUQlOCg=",
+        "created_at": "2023-05-15 18:35:59.680855",
+        "updated_at": "2023-05-15 18:35:59.680855"
+      }
+    },
+    {
+      "model": "account.customuser",
+      "fields": {
+        "id" : 7,
+        "first_name": "Sasha",
+        "last_name": "Ryan",
+        "email": "sasha@gmail.com",
+        "user_type": "2",
+        "password": "pbkdf2_sha256$390000$ze0kTQMkE7TuOPYxwYX8jR$ropiBvtj16ktBZ3MdDsPjVEifZXq/s0fw9dSpUQlOCg=",
+        "created_at": "2023-05-15 18:35:59.680855",
+        "updated_at": "2023-05-15 18:35:59.680855"
+      }
+    },
+    {
+      "model": "account.customuser",
+      "fields": {
+        "id" : 8,
+        "first_name": "Greg",
+        "last_name": "Harris",
+        "email": "greg@gmail.com",
+        "user_type": "2",
+        "password": "pbkdf2_sha256$390000$ze0kTQMkE7TuOPYxwYX8jR$ropiBvtj16ktBZ3MdDsPjVEifZXq/s0fw9dSpUQlOCg=",
+        "created_at": "2023-05-15 18:35:59.680855",
+        "updated_at": "2023-05-15 18:35:59.680855"
+      }
+    },
+    {
+      "model": "account.customuser",
+      "fields": {
+        "id" : 9,
+        "first_name": "Derek",
+        "last_name": "Glover",
+        "email": "derek@gmail.com",
+        "user_type": "2",
+        "password": "pbkdf2_sha256$390000$ze0kTQMkE7TuOPYxwYX8jR$ropiBvtj16ktBZ3MdDsPjVEifZXq/s0fw9dSpUQlOCg=",
+        "created_at": "2023-05-15 18:35:59.680855",
+        "updated_at": "2023-05-15 18:35:59.680855"
+      }
+    },
+    {
+      "model": "account.customuser",
+      "fields": {
+        "id" : 10,
+        "first_name": "Stephanie",
+        "last_name": "Hanson",
+        "email": "stephanie@gmail.com",
+        "user_type": "2",
+        "password": "pbkdf2_sha256$390000$ze0kTQMkE7TuOPYxwYX8jR$ropiBvtj16ktBZ3MdDsPjVEifZXq/s0fw9dSpUQlOCg=",
+        "created_at": "2023-05-15 18:35:59.680855",
+        "updated_at": "2023-05-15 18:35:59.680855"
+      }
+    },
+    {
+      "model": "account.customuser",
+      "fields": {
+        "id" : 11,
+        "first_name": "Jerry",
+        "last_name": "Wiliams",
+        "email": "jerry@gmail.com",
+        "user_type": "2",
+        "password": "pbkdf2_sha256$390000$ze0kTQMkE7TuOPYxwYX8jR$ropiBvtj16ktBZ3MdDsPjVEifZXq/s0fw9dSpUQlOCg=",
+        "created_at": "2023-05-15 18:35:59.680855",
+        "updated_at": "2023-05-15 18:35:59.680855"
+      }
+    },
+    {
+      "model": "account.customuser",
+      "fields": {
+        "id" : 12,
+        "first_name": "Maggie",
+        "last_name": "Johnson",
+        "email": "maggie@gmail.com",
+        "user_type": "2",
+        "password": "pbkdf2_sha256$390000$ze0kTQMkE7TuOPYxwYX8jR$ropiBvtj16ktBZ3MdDsPjVEifZXq/s0fw9dSpUQlOCg=",
+        "created_at": "2023-05-15 18:35:59.680855",
+        "updated_at": "2023-05-15 18:35:59.680855"
+      }
+    },
+    {
+      "model": "account.customuser",
+      "fields": {
+        "id" : 13,
+        "first_name": "Barry",
+        "last_name": "Dickens",
+        "email": "barry@gmail.com",
+        "user_type": "2",
+        "password": "pbkdf2_sha256$390000$ze0kTQMkE7TuOPYxwYX8jR$ropiBvtj16ktBZ3MdDsPjVEifZXq/s0fw9dSpUQlOCg=",
+        "created_at": "2023-05-15 18:35:59.680855",
+        "updated_at": "2023-05-15 18:35:59.680855"
+      }
+    },
+    {
+      "model": "account.customuser",
+      "fields": {
+        "id" : 14,
+        "first_name": "Ryan",
+        "last_name": "Bolin",
+        "email": "ryan@gmail.com",
+        "user_type": "2",
+        "password": "pbkdf2_sha256$390000$ze0kTQMkE7TuOPYxwYX8jR$ropiBvtj16ktBZ3MdDsPjVEifZXq/s0fw9dSpUQlOCg=",
+        "created_at": "2023-05-15 18:35:59.680855",
+        "updated_at": "2023-05-15 18:35:59.680855"
+      }
+    },
+    {
+      "model": "account.customuser",
+      "fields": {
+        "id" : 15,
+        "first_name": "Sara",
+        "last_name": "Kensing",
+        "email": "sara@gmail.com",
+        "user_type": "2",
+        "password": "pbkdf2_sha256$390000$ze0kTQMkE7TuOPYxwYX8jR$ropiBvtj16ktBZ3MdDsPjVEifZXq/s0fw9dSpUQlOCg=",
+        "created_at": "2023-05-15 18:35:59.680855",
+        "updated_at": "2023-05-15 18:35:59.680855"
+      }
+    },
+    {
+      "model": "account.customuser",
+      "fields": {
+        "id" : 16,
+        "first_name": "Lionel",
+        "last_name": "Messi",
+        "email": "lionel@gmail.com",
+        "user_type": "2",
+        "password": "pbkdf2_sha256$390000$ze0kTQMkE7TuOPYxwYX8jR$ropiBvtj16ktBZ3MdDsPjVEifZXq/s0fw9dSpUQlOCg=",
+        "created_at": "2023-05-15 18:35:59.680855",
+        "updated_at": "2023-05-15 18:35:59.680855"
+      }
+    }
+  ]
+

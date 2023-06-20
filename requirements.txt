@@ -1,0 +1,7 @@
+Django
+Pango
+mysql-connector
+virtualenv
+Pillow
+django-renderpdf
+requests

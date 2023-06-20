@@ -1,0 +1,160 @@
+[
+    {
+      "model": "voting.voter",
+      "fields": {
+        "id" : 1,
+        "admin_id" : 4,
+        "phone": "08097362361",
+        "otp": "0000",
+        "verified": 1,
+        "voted": 0,
+        "otp_sent": 0
+      }
+    },
+    {
+      "model": "voting.voter",
+      "fields": {
+        "id" : 2,
+        "admin_id" : 5,
+        "phone": "08012345678",
+        "otp": "0000",
+        "verified": 1,
+        "voted": 0,
+        "otp_sent": 0
+      }
+    },
+    {
+      "model": "voting.voter",
+      "fields": {
+        "id" : 3,
+        "admin_id" : 6,
+        "phone": "08012345679",
+        "otp": "0000",
+        "verified": 1,
+        "voted": 0,
+        "otp_sent": 0
+      }
+    },
+    {
+      "model": "voting.voter",
+      "fields": {
+        "id" : 4,
+        "admin_id" : 7,
+        "phone": "08012345680",
+        "otp": "0000",
+        "verified": 1,
+        "voted": 0,
+        "otp_sent": 0
+      }
+    },
+    {
+      "model": "voting.voter",
+      "fields": {
+        "id" : 5,
+        "admin_id" : 8,
+        "phone": "08012345681",
+        "otp": "0000",
+        "verified": 1,
+        "voted": 0,
+        "otp_sent": 0
+      }
+    },
+    {
+      "model": "voting.voter",
+      "fields": {
+        "id" : 6,
+        "admin_id" : 9,
+        "phone": "08012345682",
+        "otp": "0000",
+        "verified": 1,
+        "voted": 0,
+        "otp_sent": 0
+      }
+    },
+    {
+      "model": "voting.voter",
+      "fields": {
+        "id" : 7,
+        "admin_id" : 10,
+        "phone": "08012345683",
+        "otp": "0000",
+        "verified": 1,
+        "voted": 0,
+        "otp_sent": 0
+      }
+    },
+    {
+      "model": "voting.voter",
+      "fields": {
+        "id" : 8,
+        "admin_id" : 11,
+        "phone": "08012345684",
+        "otp": "0000",
+        "verified": 1,
+        "voted": 0,
+        "otp_sent": 0
+      }
+    },
+    {
+      "model": "voting.voter",
+      "fields": {
+        "id" : 9,
+        "admin_id" : 12,
+        "phone": "08012345685",
+        "otp": "0000",
+        "verified": 1,
+        "voted": 0,
+        "otp_sent": 0
+      }
+    },
+    {
+      "model": "voting.voter",
+      "fields": {
+        "id" : 10,
+        "admin_id" : 13,
+        "phone": "08012345686",
+        "otp": "0000",
+        "verified": 1,
+        "voted": 0,
+        "otp_sent": 0
+      }
+    },
+    {
+      "model": "voting.voter",
+      "fields": {
+        "id" : 11,
+        "admin_id" : 14,
+        "phone": "08012345687",
+        "otp": "0000",
+        "verified": 1,
+        "voted": 0,
+        "otp_sent": 0
+      }
+    },
+    {
+      "model": "voting.voter",
+      "fields": {
+        "id" : 12,
+        "admin_id" : 15,
+        "phone": "08012345688",
+        "otp": "0000",
+        "verified": 1,
+        "voted": 0,
+        "otp_sent": 0
+      }
+    },
+    {
+      "model": "voting.voter",
+      "fields": {
+        "id" : 13,
+        "admin_id" : 16,
+        "phone": "08012345689",
+        "otp": "0000",
+        "verified": 1,
+        "voted": 0,
+        "otp_sent": 0
+      }
+    }
+  ]
+
+
